@@ -1,0 +1,58 @@
+{
+ "from_save_ruleset": {
+  "DlcId": 1,
+  "SmallCityConnectionLimit": 2,
+  "MediumCityConnectionLimit": 3,
+  "MaximumConnectionLimitPerPlayerForNonMajorCities": 3,
+  "FerryConnectionLimit": 2,
+  "ChunnelConnectionLimit": 1,
+  "PerTurnBuildBudget": 20,
+  "LocomotiveUpgradeCost": 20,
+  "MajorCityPerTurnFreeBuildOutLimit": 2,
+  "StartingMoney": 50,
+  "PriceToRideAnotherPlayersTrain": 4,
+  "WinConditionMoney": 250,
+  "WinConditionCities": 7,
+  "MaximumTrainSpeed": 12,
+  "ButtonTimerDuration": 0.0
+ },
+ "build_cost": {
+  "clear": 1,
+  "mountain": 2,
+  "alpine": 5,
+  "small": 3,
+  "medium": 3,
+  "major_entry": 5,
+  "inside_major": 0,
+  "river": 2,
+  "lake": 3,
+  "inlet": 3,
+  "ferry_or_chunnel": "route cost, paid on entering either port; replaces terrain and water"
+ },
+ "locomotives": {
+  "0": {
+   "speed": 9
+  },
+  "1": {
+   "speed": 12
+  },
+  "2": {
+   "speed": 9
+  },
+  "3": {
+   "speed": 12
+  },
+  "upgrade_speed": {
+   "0": 1,
+   "2": 3
+  },
+  "half_speed": "(speed+1)//2",
+  "note": "speeds from Locomotive.get_Speed; capacities not yet read from game data (standard rules: 0 Freight 2 loads, 1 Fast Freight 2, 2 Heavy Freight 3, 3 Superfreight 3)"
+ },
+ "movement": {
+  "per_milepost": 1,
+  "event_half_rate": 2,
+  "event_blocked": 1000
+ },
+ "source": "Assembly-CSharp.dll: Node.GetBuildCost, MapNodeData.GetWaterCrossingCost, Node.GetMovementCost, Locomotive"
+}

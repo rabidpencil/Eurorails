@@ -1,0 +1,942 @@
+{
+ "frame": "game (x,y); y increases north; odd rows shifted +0.5 east; row spacing 0.8725 of column spacing",
+ "cities": [
+  {
+   "cell": [
+    33,
+    59
+   ],
+   "name": "Aberdeen",
+   "type": "small",
+   "loads": [
+    "fish",
+    "oil"
+   ],
+   "key": "aberdeen"
+  },
+  {
+   "cell": [
+    29,
+    56
+   ],
+   "name": "Glasgow",
+   "type": "medium",
+   "loads": [
+    "sheep"
+   ],
+   "key": "glasgow"
+  },
+  {
+   "cell": [
+    26,
+    54
+   ],
+   "name": "Belfast",
+   "type": "small",
+   "loads": [
+    "potatoes"
+   ],
+   "key": "belfast",
+   "also_port": true
+  },
+  {
+   "cell": [
+    32,
+    52
+   ],
+   "name": "Newcastle",
+   "type": "small",
+   "loads": [
+    "oil"
+   ],
+   "key": "newcastle"
+  },
+  {
+   "cell": [
+    23,
+    51
+   ],
+   "name": "Dublin",
+   "type": "small",
+   "loads": [
+    "beer"
+   ],
+   "key": "dublin",
+   "also_port": true
+  },
+  {
+   "cell": [
+    19,
+    49
+   ],
+   "name": "Cork",
+   "type": "small",
+   "loads": [
+    "sheep"
+   ],
+   "key": "cork"
+  },
+  {
+   "cell": [
+    30,
+    48
+   ],
+   "name": "Manchester",
+   "type": "medium",
+   "loads": [
+    "cars"
+   ],
+   "key": "manchester"
+  },
+  {
+   "cell": [
+    29,
+    45
+   ],
+   "name": "Birmingham",
+   "type": "medium",
+   "loads": [
+    "china",
+    "iron",
+    "steel"
+   ],
+   "key": "birmingham"
+  },
+  {
+   "cell": [
+    26,
+    44
+   ],
+   "name": "Cardiff",
+   "type": "small",
+   "loads": [
+    "coal",
+    "hops"
+   ],
+   "key": "cardiff"
+  },
+  {
+   "cell": [
+    30,
+    41
+   ],
+   "name": "London",
+   "type": "major",
+   "loads": [
+    "tourists"
+   ],
+   "key": "london",
+   "footprint": [
+    [
+     29,
+     41
+    ],
+    [
+     30,
+     40
+    ],
+    [
+     30,
+     42
+    ],
+    [
+     31,
+     40
+    ],
+    [
+     31,
+     41
+    ],
+    [
+     31,
+     42
+    ]
+   ]
+  },
+  {
+   "cell": [
+    36,
+    37
+   ],
+   "name": "Antwerpen",
+   "type": "medium",
+   "loads": [
+    "imports"
+   ],
+   "key": "antwerpen"
+  },
+  {
+   "cell": [
+    36,
+    36
+   ],
+   "name": "Bruxelles",
+   "type": "medium",
+   "loads": [
+    "chocolate"
+   ],
+   "key": "bruxelles"
+  },
+  {
+   "cell": [
+    44,
+    41
+   ],
+   "name": "Bremen",
+   "type": "small",
+   "loads": [
+    "machinery"
+   ],
+   "key": "bremen"
+  },
+  {
+   "cell": [
+    46,
+    41
+   ],
+   "name": "Hamburg",
+   "type": "medium",
+   "loads": [
+    "imports"
+   ],
+   "key": "hamburg"
+  },
+  {
+   "cell": [
+    48,
+    49
+   ],
+   "name": "Arhus",
+   "type": "small",
+   "loads": [
+    "cheese"
+   ],
+   "key": "arhus"
+  },
+  {
+   "cell": [
+    51,
+    47
+   ],
+   "name": "Kobenhaven",
+   "type": "small",
+   "loads": [
+    "cheese"
+   ],
+   "key": "kobenhaven"
+  },
+  {
+   "cell": [
+    53,
+    40
+   ],
+   "name": "Szczecin",
+   "type": "small",
+   "loads": [
+    "potatoes"
+   ],
+   "key": "szczecin"
+  },
+  {
+   "cell": [
+    52,
+    52
+   ],
+   "name": "Goteborg",
+   "type": "small",
+   "loads": [
+    "machinery"
+   ],
+   "key": "goteborg"
+  },
+  {
+   "cell": [
+    51,
+    59
+   ],
+   "name": "Oslo",
+   "type": "small",
+   "loads": [
+    "fish",
+    "oil",
+    "wood"
+   ],
+   "key": "oslo"
+  },
+  {
+   "cell": [
+    61,
+    56
+   ],
+   "name": "Stockholm",
+   "type": "medium",
+   "loads": [
+    "iron",
+    "wood"
+   ],
+   "key": "stockholm"
+  },
+  {
+   "cell": [
+    18,
+    20
+   ],
+   "name": "Bilbao",
+   "type": "small",
+   "loads": [
+    "sheep"
+   ],
+   "key": "bilbao"
+  },
+  {
+   "cell": [
+    6,
+    20
+   ],
+   "name": "Porto",
+   "type": "small",
+   "loads": [
+    "fish",
+    "wine"
+   ],
+   "key": "porto"
+  },
+  {
+   "cell": [
+    2,
+    15
+   ],
+   "name": "Lisboa",
+   "type": "medium",
+   "loads": [
+    "cork"
+   ],
+   "key": "lisboa"
+  },
+  {
+   "cell": [
+    19,
+    9
+   ],
+   "name": "Valencia",
+   "type": "small",
+   "loads": [
+    "fruit"
+   ],
+   "key": "valencia"
+  },
+  {
+   "cell": [
+    5,
+    7
+   ],
+   "name": "Sevilla",
+   "type": "small",
+   "loads": [
+    "cork",
+    "fruit"
+   ],
+   "key": "sevilla"
+  },
+  {
+   "cell": [
+    43,
+    13
+   ],
+   "name": "Firenze",
+   "type": "small",
+   "loads": [
+    "marble"
+   ],
+   "key": "firenze"
+  },
+  {
+   "cell": [
+    44,
+    7
+   ],
+   "name": "Roma",
+   "type": "medium",
+   "loads": [],
+   "key": "roma"
+  },
+  {
+   "cell": [
+    47,
+    3
+   ],
+   "name": "Napoli",
+   "type": "small",
+   "loads": [
+    "tobacco"
+   ],
+   "key": "napoli"
+  },
+  {
+   "cell": [
+    56,
+    10
+   ],
+   "name": "Sarajevo",
+   "type": "small",
+   "loads": [
+    "labor",
+    "wood"
+   ],
+   "key": "sarajevo"
+  },
+  {
+   "cell": [
+    61,
+    28
+   ],
+   "name": "Krakow",
+   "type": "small",
+   "loads": [
+    "coal"
+   ],
+   "key": "krakow"
+  },
+  {
+   "cell": [
+    58,
+    21
+   ],
+   "name": "Budapest",
+   "type": "medium",
+   "loads": [
+    "bauxite"
+   ],
+   "key": "budapest"
+  },
+  {
+   "cell": [
+    52,
+    17
+   ],
+   "name": "Zagreb",
+   "type": "small",
+   "loads": [
+    "labor"
+   ],
+   "key": "zagreb"
+  },
+  {
+   "cell": [
+    54,
+    24
+   ],
+   "name": "Wien",
+   "type": "major",
+   "loads": [
+    "wine"
+   ],
+   "key": "wien",
+   "footprint": [
+    [
+     53,
+     23
+    ],
+    [
+     53,
+     24
+    ],
+    [
+     53,
+     25
+    ],
+    [
+     54,
+     23
+    ],
+    [
+     54,
+     25
+    ],
+    [
+     55,
+     24
+    ]
+   ]
+  },
+  {
+   "cell": [
+    46,
+    25
+   ],
+   "name": "Munchen",
+   "type": "medium",
+   "loads": [
+    "beer",
+    "cars"
+   ],
+   "key": "munchen"
+  },
+  {
+   "cell": [
+    45,
+    17
+   ],
+   "name": "Venezia",
+   "type": "small",
+   "loads": [],
+   "key": "venezia"
+  },
+  {
+   "cell": [
+    52,
+    30
+   ],
+   "name": "Praha",
+   "type": "medium",
+   "loads": [
+    "beer"
+   ],
+   "key": "praha"
+  },
+  {
+   "cell": [
+    56,
+    32
+   ],
+   "name": "Wroclaw",
+   "type": "small",
+   "loads": [
+    "coal",
+    "copper"
+   ],
+   "key": "wroclaw"
+  },
+  {
+   "cell": [
+    60,
+    34
+   ],
+   "name": "Lodz",
+   "type": "medium",
+   "loads": [
+    "potatoes"
+   ],
+   "key": "lodz"
+  },
+  {
+   "cell": [
+    62,
+    35
+   ],
+   "name": "Warszawa",
+   "type": "medium",
+   "loads": [
+    "ham"
+   ],
+   "key": "warszawa"
+  },
+  {
+   "cell": [
+    63,
+    42
+   ],
+   "name": "Kaliningrad",
+   "type": "small",
+   "loads": [
+    "iron"
+   ],
+   "key": "kaliningrad"
+  },
+  {
+   "cell": [
+    49,
+    34
+   ],
+   "name": "Leipzig",
+   "type": "small",
+   "loads": [
+    "china"
+   ],
+   "key": "leipzig"
+  },
+  {
+   "cell": [
+    37,
+    19
+   ],
+   "name": "Torino",
+   "type": "medium",
+   "loads": [
+    "cars"
+   ],
+   "key": "torino"
+  },
+  {
+   "cell": [
+    32,
+    15
+   ],
+   "name": "Marseille",
+   "type": "medium",
+   "loads": [
+    "bauxite"
+   ],
+   "key": "marseille"
+  },
+  {
+   "cell": [
+    33,
+    22
+   ],
+   "name": "Lyon",
+   "type": "small",
+   "loads": [
+    "wheat"
+   ],
+   "key": "lyon"
+  },
+  {
+   "cell": [
+    39,
+    24
+   ],
+   "name": "Bern",
+   "type": "small",
+   "loads": [
+    "cattle",
+    "cheese"
+   ],
+   "key": "bern"
+  },
+  {
+   "cell": [
+    43,
+    29
+   ],
+   "name": "Stuttgart",
+   "type": "small",
+   "loads": [
+    "cars"
+   ],
+   "key": "stuttgart"
+  },
+  {
+   "cell": [
+    26,
+    18
+   ],
+   "name": "Toulouse",
+   "type": "small",
+   "loads": [
+    "wheat"
+   ],
+   "key": "toulouse"
+  },
+  {
+   "cell": [
+    23,
+    23
+   ],
+   "name": "Bordeaux",
+   "type": "small",
+   "loads": [
+    "wine"
+   ],
+   "key": "bordeaux"
+  },
+  {
+   "cell": [
+    41,
+    24
+   ],
+   "name": "Zurich",
+   "type": "medium",
+   "loads": [
+    "chocolate"
+   ],
+   "key": "zurich"
+  },
+  {
+   "cell": [
+    43,
+    32
+   ],
+   "name": "Frankfurt",
+   "type": "small",
+   "loads": [
+    "beer",
+    "wine"
+   ],
+   "key": "frankfurt"
+  },
+  {
+   "cell": [
+    39,
+    32
+   ],
+   "name": "Luxembourg",
+   "type": "small",
+   "loads": [
+    "steel"
+   ],
+   "key": "luxembourg"
+  },
+  {
+   "cell": [
+    24,
+    30
+   ],
+   "name": "Nantes",
+   "type": "small",
+   "loads": [
+    "cattle",
+    "machinery"
+   ],
+   "key": "nantes"
+  },
+  {
+   "cell": [
+    25,
+    12
+   ],
+   "name": "Barcelona",
+   "type": "medium",
+   "loads": [
+    "machinery"
+   ],
+   "key": "barcelona"
+  },
+  {
+   "cell": [
+    61,
+    13
+   ],
+   "name": "Beograd",
+   "type": "medium",
+   "loads": [
+    "copper",
+    "labor",
+    "oil"
+   ],
+   "key": "beograd"
+  },
+  {
+   "cell": [
+    38,
+    40
+   ],
+   "name": "Holland",
+   "type": "major",
+   "loads": [
+    "cheese",
+    "flowers"
+   ],
+   "key": "holland",
+   "footprint": [
+    [
+     37,
+     39
+    ],
+    [
+     37,
+     40
+    ],
+    [
+     37,
+     41
+    ],
+    [
+     38,
+     39
+    ],
+    [
+     38,
+     41
+    ],
+    [
+     39,
+     40
+    ]
+   ]
+  },
+  {
+   "cell": [
+    41,
+    36
+   ],
+   "name": "Ruhr",
+   "type": "major",
+   "loads": [
+    "steel",
+    "tourists"
+   ],
+   "key": "ruhr",
+   "footprint": [
+    [
+     40,
+     35
+    ],
+    [
+     40,
+     36
+    ],
+    [
+     40,
+     37
+    ],
+    [
+     41,
+     35
+    ],
+    [
+     41,
+     37
+    ],
+    [
+     42,
+     36
+    ]
+   ]
+  },
+  {
+   "cell": [
+    51,
+    37
+   ],
+   "name": "Berlin",
+   "type": "major",
+   "loads": [],
+   "key": "berlin",
+   "footprint": [
+    [
+     50,
+     37
+    ],
+    [
+     51,
+     36
+    ],
+    [
+     51,
+     38
+    ],
+    [
+     52,
+     36
+    ],
+    [
+     52,
+     37
+    ],
+    [
+     52,
+     38
+    ]
+   ]
+  },
+  {
+   "cell": [
+    32,
+    32
+   ],
+   "name": "Paris",
+   "type": "major",
+   "loads": [],
+   "key": "paris",
+   "footprint": [
+    [
+     31,
+     31
+    ],
+    [
+     31,
+     32
+    ],
+    [
+     31,
+     33
+    ],
+    [
+     32,
+     31
+    ],
+    [
+     32,
+     33
+    ],
+    [
+     33,
+     32
+    ]
+   ]
+  },
+  {
+   "cell": [
+    40,
+    19
+   ],
+   "name": "Milano",
+   "type": "major",
+   "loads": [],
+   "key": "milano",
+   "footprint": [
+    [
+     39,
+     19
+    ],
+    [
+     40,
+     18
+    ],
+    [
+     40,
+     20
+    ],
+    [
+     41,
+     18
+    ],
+    [
+     41,
+     19
+    ],
+    [
+     41,
+     20
+    ]
+   ]
+  },
+  {
+   "cell": [
+    13,
+    13
+   ],
+   "name": "Madrid",
+   "type": "major",
+   "loads": [],
+   "key": "madrid",
+   "footprint": [
+    [
+     12,
+     13
+    ],
+    [
+     13,
+     12
+    ],
+    [
+     13,
+     14
+    ],
+    [
+     14,
+     12
+    ],
+    [
+     14,
+     13
+    ],
+    [
+     14,
+     14
+    ]
+   ]
+  }
+ ]
+}

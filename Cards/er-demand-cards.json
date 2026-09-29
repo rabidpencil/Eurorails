@@ -1,0 +1,2484 @@
+{
+ "1": [
+  {
+   "city": "Berlin",
+   "payout": 10,
+   "load": "cheese"
+  },
+  {
+   "city": "Manchester",
+   "payout": 31,
+   "load": "bauxite"
+  },
+  {
+   "city": "Luxembourg",
+   "payout": 22,
+   "load": "labor"
+  }
+ ],
+ "2": [
+  {
+   "city": "Holland",
+   "payout": 23,
+   "load": "fish"
+  },
+  {
+   "city": "Marseille",
+   "payout": 37,
+   "load": "ham"
+  },
+  {
+   "city": "Leipzig",
+   "payout": 8,
+   "load": "cars"
+  }
+ ],
+ "3": [
+  {
+   "city": "London",
+   "payout": 34,
+   "load": "fruit"
+  },
+  {
+   "city": "Munchen",
+   "payout": 7,
+   "load": "chocolate"
+  },
+  {
+   "city": "Lyon",
+   "payout": 21,
+   "load": "iron"
+  }
+ ],
+ "4": [
+  {
+   "city": "Madrid",
+   "payout": 49,
+   "load": "copper"
+  },
+  {
+   "city": "Napoli",
+   "payout": 23,
+   "load": "cheese"
+  },
+  {
+   "city": "Nantes",
+   "payout": 15,
+   "load": "sheep"
+  }
+ ],
+ "5": [
+  {
+   "city": "Milano",
+   "payout": 24,
+   "load": "potatoes"
+  },
+  {
+   "city": "Praha",
+   "payout": 18,
+   "load": "wood"
+  },
+  {
+   "city": "Newcastle",
+   "payout": 51,
+   "load": "tobacco"
+  }
+ ],
+ "6": [
+  {
+   "city": "Paris",
+   "payout": 7,
+   "load": "cattle"
+  },
+  {
+   "city": "Roma",
+   "payout": 29,
+   "load": "coal"
+  },
+  {
+   "city": "Oslo",
+   "payout": 14,
+   "load": "cheese"
+  }
+ ],
+ "7": [
+  {
+   "city": "Ruhr",
+   "payout": 16,
+   "load": "hops"
+  },
+  {
+   "city": "Stockholm",
+   "payout": 63,
+   "load": "tobacco"
+  },
+  {
+   "city": "Porto",
+   "payout": 36,
+   "load": "imports"
+  }
+ ],
+ "8": [
+  {
+   "city": "Wien",
+   "payout": 18,
+   "load": "flowers"
+  },
+  {
+   "city": "Torino",
+   "payout": 24,
+   "load": "oil"
+  },
+  {
+   "city": "Sarajevo",
+   "payout": 44,
+   "load": "sheep"
+  }
+ ],
+ "9": [
+  {
+   "city": "Berlin",
+   "payout": 14,
+   "load": "bauxite"
+  },
+  {
+   "city": "Zurich",
+   "payout": 20,
+   "load": "potatoes"
+  },
+  {
+   "city": "Sevilla",
+   "payout": 48,
+   "load": "beer"
+  }
+ ],
+ "10": [
+  {
+   "city": "Holland",
+   "payout": 16,
+   "load": "hops"
+  },
+  {
+   "city": "Warszawa",
+   "payout": 38,
+   "load": "fish"
+  },
+  {
+   "city": "Stuttgart",
+   "payout": 30,
+   "load": "sheep"
+  }
+ ],
+ "11": [
+  {
+   "city": "London",
+   "payout": 10,
+   "load": "machinery"
+  },
+  {
+   "city": "Barcelona",
+   "payout": 21,
+   "load": "cheese"
+  },
+  {
+   "city": "Szczecin",
+   "payout": 44,
+   "load": "fruit"
+  }
+ ],
+ "12": [
+  {
+   "city": "Madrid",
+   "payout": 42,
+   "load": "labor"
+  },
+  {
+   "city": "Antwerpen",
+   "payout": 10,
+   "load": "beer"
+  },
+  {
+   "city": "Toulouse",
+   "payout": 21,
+   "load": "marble"
+  }
+ ],
+ "13": [
+  {
+   "city": "Milano",
+   "payout": 29,
+   "load": "hops"
+  },
+  {
+   "city": "Beograd",
+   "payout": 19,
+   "load": "cars"
+  },
+  {
+   "city": "Valencia",
+   "payout": 39,
+   "load": "tobacco"
+  }
+ ],
+ "14": [
+  {
+   "city": "Paris",
+   "payout": 11,
+   "load": "wine"
+  },
+  {
+   "city": "Birmingham",
+   "payout": 29,
+   "load": "copper"
+  },
+  {
+   "city": "Venezia",
+   "payout": 19,
+   "load": "steel"
+  }
+ ],
+ "15": [
+  {
+   "city": "Ruhr",
+   "payout": 18,
+   "load": "oil"
+  },
+  {
+   "city": "Budapest",
+   "payout": 25,
+   "load": "imports"
+  },
+  {
+   "city": "Wroclaw",
+   "payout": 33,
+   "load": "sheep"
+  }
+ ],
+ "16": [
+  {
+   "city": "Wien",
+   "payout": 53,
+   "load": "cork"
+  },
+  {
+   "city": "Bruxelles",
+   "payout": 24,
+   "load": "ham"
+  },
+  {
+   "city": "Aberdeen",
+   "payout": 17,
+   "load": "china"
+  }
+ ],
+ "17": [
+  {
+   "city": "Berlin",
+   "payout": 21,
+   "load": "wheat"
+  },
+  {
+   "city": "Glasgow",
+   "payout": 35,
+   "load": "wood"
+  },
+  {
+   "city": "Zagreb",
+   "payout": 15,
+   "load": "marble"
+  }
+ ],
+ "18": [
+  {
+   "city": "London",
+   "payout": 11,
+   "load": "beer"
+  },
+  {
+   "city": "Hamburg",
+   "payout": 22,
+   "load": "oil"
+  },
+  {
+   "city": "Arhus",
+   "payout": 44,
+   "load": "tobacco"
+  }
+ ],
+ "19": [
+  {
+   "city": "Holland",
+   "payout": 12,
+   "load": "potatoes"
+  },
+  {
+   "city": "Lisboa",
+   "payout": 23,
+   "load": "machinery"
+  },
+  {
+   "city": "Belfast",
+   "payout": 33,
+   "load": "cattle"
+  }
+ ],
+ "20": [
+  {
+   "city": "Madrid",
+   "payout": 15,
+   "load": "wheat"
+  },
+  {
+   "city": "Lodz",
+   "payout": 27,
+   "load": "marble"
+  },
+  {
+   "city": "Bern",
+   "payout": 37,
+   "load": "fish"
+  }
+ ],
+ "21": [
+  {
+   "city": "Milano",
+   "payout": 16,
+   "load": "tourists"
+  },
+  {
+   "city": "Manchester",
+   "payout": 35,
+   "load": "ham"
+  },
+  {
+   "city": "Bilbao",
+   "payout": 24,
+   "load": "chocolate"
+  }
+ ],
+ "22": [
+  {
+   "city": "Paris",
+   "payout": 6,
+   "load": "steel"
+  },
+  {
+   "city": "Marseille",
+   "payout": 8,
+   "load": "wheat"
+  },
+  {
+   "city": "Bordeaux",
+   "payout": 7,
+   "load": "cattle"
+  }
+ ],
+ "23": [
+  {
+   "city": "Ruhr",
+   "payout": 13,
+   "load": "wheat"
+  },
+  {
+   "city": "Munchen",
+   "payout": 22,
+   "load": "tobacco"
+  },
+  {
+   "city": "Cardiff",
+   "payout": 31,
+   "load": "copper"
+  }
+ ],
+ "24": [
+  {
+   "city": "Wien",
+   "payout": 15,
+   "load": "cattle"
+  },
+  {
+   "city": "Napoli",
+   "payout": 33,
+   "load": "coal"
+  },
+  {
+   "city": "Bremen",
+   "payout": 22,
+   "load": "bauxite"
+  }
+ ],
+ "25": [
+  {
+   "city": "Berlin",
+   "payout": 13,
+   "load": "chocolate"
+  },
+  {
+   "city": "Roma",
+   "payout": 35,
+   "load": "ham"
+  },
+  {
+   "city": "Cork",
+   "payout": 24,
+   "load": "flowers"
+  }
+ ],
+ "26": [
+  {
+   "city": "Holland",
+   "payout": 33,
+   "load": "fruit"
+  },
+  {
+   "city": "Praha",
+   "payout": 17,
+   "load": "iron"
+  },
+  {
+   "city": "Dublin",
+   "payout": 25,
+   "load": "machinery"
+  }
+ ],
+ "27": [
+  {
+   "city": "London",
+   "payout": 16,
+   "load": "potatoes"
+  },
+  {
+   "city": "Stockholm",
+   "payout": 34,
+   "load": "flowers"
+  },
+  {
+   "city": "Firenze",
+   "payout": 9,
+   "load": "cars"
+  }
+ ],
+ "28": [
+  {
+   "city": "Madrid",
+   "payout": 35,
+   "load": "tourists"
+  },
+  {
+   "city": "Torino",
+   "payout": 20,
+   "load": "machinery"
+  },
+  {
+   "city": "Frankfurt",
+   "payout": 14,
+   "load": "wheat"
+  }
+ ],
+ "29": [
+  {
+   "city": "Milano",
+   "payout": 37,
+   "load": "fish"
+  },
+  {
+   "city": "Warszawa",
+   "payout": 18,
+   "load": "labor"
+  },
+  {
+   "city": "Goteborg",
+   "payout": 27,
+   "load": "coal"
+  }
+ ],
+ "30": [
+  {
+   "city": "Paris",
+   "payout": 20,
+   "load": "potatoes"
+  },
+  {
+   "city": "Zurich",
+   "payout": 38,
+   "load": "fish"
+  },
+  {
+   "city": "Kaliningrad",
+   "payout": 17,
+   "load": "china"
+  }
+ ],
+ "31": [
+  {
+   "city": "Ruhr",
+   "payout": 22,
+   "load": "sheep"
+  },
+  {
+   "city": "Barcelona",
+   "payout": 37,
+   "load": "wood"
+  },
+  {
+   "city": "Kobenhaven",
+   "payout": 62,
+   "load": "cork"
+  }
+ ],
+ "32": [
+  {
+   "city": "Wien",
+   "payout": 21,
+   "load": "wheat"
+  },
+  {
+   "city": "Antwerpen",
+   "payout": 11,
+   "load": "cattle"
+  },
+  {
+   "city": "Krakow",
+   "payout": 33,
+   "load": "tobacco"
+  }
+ ],
+ "33": [
+  {
+   "city": "Berlin",
+   "payout": 8,
+   "load": "tourists"
+  },
+  {
+   "city": "Beograd",
+   "payout": 28,
+   "load": "machinery"
+  },
+  {
+   "city": "Luxembourg",
+   "payout": 18,
+   "load": "iron"
+  }
+ ],
+ "34": [
+  {
+   "city": "Holland",
+   "payout": 7,
+   "load": "beer"
+  },
+  {
+   "city": "Birmingham",
+   "payout": 19,
+   "load": "wine"
+  },
+  {
+   "city": "Leipzig",
+   "payout": 30,
+   "load": "fish"
+  }
+ ],
+ "35": [
+  {
+   "city": "London",
+   "payout": 16,
+   "load": "cattle"
+  },
+  {
+   "city": "Glasgow",
+   "payout": 43,
+   "load": "ham"
+  },
+  {
+   "city": "Lyon",
+   "payout": 28,
+   "load": "wood"
+  }
+ ],
+ "36": [
+  {
+   "city": "Madrid",
+   "payout": 10,
+   "load": "wine"
+  },
+  {
+   "city": "Budapest",
+   "payout": 22,
+   "load": "steel"
+  },
+  {
+   "city": "Nantes",
+   "payout": 31,
+   "load": "copper"
+  }
+ ],
+ "37": [
+  {
+   "city": "Milano",
+   "payout": 12,
+   "load": "labor"
+  },
+  {
+   "city": "Bruxelles",
+   "payout": 19,
+   "load": "coal"
+  },
+  {
+   "city": "Newcastle",
+   "payout": 55,
+   "load": "cork"
+  }
+ ],
+ "38": [
+  {
+   "city": "Paris",
+   "payout": 19,
+   "load": "sheep"
+  },
+  {
+   "city": "Hamburg",
+   "payout": 35,
+   "load": "tobacco"
+  },
+  {
+   "city": "Oslo",
+   "payout": 73,
+   "load": "cork"
+  }
+ ],
+ "39": [
+  {
+   "city": "Ruhr",
+   "payout": 9,
+   "load": "cattle"
+  },
+  {
+   "city": "Lodz",
+   "payout": 20,
+   "load": "cheese"
+  },
+  {
+   "city": "Porto",
+   "payout": 35,
+   "load": "cars"
+  }
+ ],
+ "40": [
+  {
+   "city": "Wien",
+   "payout": 13,
+   "load": "chocolate"
+  },
+  {
+   "city": "Lisboa",
+   "payout": 29,
+   "load": "bauxite"
+  },
+  {
+   "city": "Sarajevo",
+   "payout": 22,
+   "load": "potatoes"
+  }
+ ],
+ "41": [
+  {
+   "city": "Berlin",
+   "payout": 11,
+   "load": "flowers"
+  },
+  {
+   "city": "Manchester",
+   "payout": 30,
+   "load": "copper"
+  },
+  {
+   "city": "Sevilla",
+   "payout": 48,
+   "load": "tourists"
+  }
+ ],
+ "42": [
+  {
+   "city": "Holland",
+   "payout": 23,
+   "load": "labor"
+  },
+  {
+   "city": "Marseille",
+   "payout": 18,
+   "load": "fruit"
+  },
+  {
+   "city": "Stuttgart",
+   "payout": 33,
+   "load": "fish"
+  }
+ ],
+ "44": [
+  {
+   "city": "Madrid",
+   "payout": 20,
+   "load": "bauxite"
+  },
+  {
+   "city": "Napoli",
+   "payout": 32,
+   "load": "tourists"
+  },
+  {
+   "city": "Toulouse",
+   "payout": 11,
+   "load": "sheep"
+  }
+ ],
+ "45": [
+  {
+   "city": "Milano",
+   "payout": 20,
+   "load": "machinery"
+  },
+  {
+   "city": "Praha",
+   "payout": 43,
+   "load": "fruit"
+  },
+  {
+   "city": "Valencia",
+   "payout": 35,
+   "load": "beer"
+  }
+ ],
+ "46": [
+  {
+   "city": "Paris",
+   "payout": 8,
+   "load": "flowers"
+  },
+  {
+   "city": "Roma",
+   "payout": 28,
+   "load": "tourists"
+  },
+  {
+   "city": "Wroclaw",
+   "payout": 19,
+   "load": "oil"
+  }
+ ],
+ "47": [
+  {
+   "city": "Ruhr",
+   "payout": 33,
+   "load": "fruit"
+  },
+  {
+   "city": "Stockholm",
+   "payout": 28,
+   "load": "imports"
+  },
+  {
+   "city": "Venezia",
+   "payout": 15,
+   "load": "wood"
+  }
+ ],
+ "48": [
+  {
+   "city": "Wien",
+   "payout": 38,
+   "load": "sheep"
+  },
+  {
+   "city": "Torino",
+   "payout": 19,
+   "load": "tourists"
+  },
+  {
+   "city": "Arhus",
+   "payout": 26,
+   "load": "bauxite"
+  }
+ ],
+ "49": [
+  {
+   "city": "Berlin",
+   "payout": 32,
+   "load": "tobacco"
+  },
+  {
+   "city": "Antwerpen",
+   "payout": 14,
+   "load": "iron"
+  },
+  {
+   "city": "Aberdeen",
+   "payout": 53,
+   "load": "fruit"
+  }
+ ],
+ "50": [
+  {
+   "city": "Holland",
+   "payout": 10,
+   "load": "cars"
+  },
+  {
+   "city": "Zurich",
+   "payout": 22,
+   "load": "tobacco"
+  },
+  {
+   "city": "Zagreb",
+   "payout": 19,
+   "load": "cheese"
+  }
+ ],
+ "51": [
+  {
+   "city": "London",
+   "payout": 10,
+   "load": "chocolate"
+  },
+  {
+   "city": "Warszawa",
+   "payout": 21,
+   "load": "oil"
+  },
+  {
+   "city": "Belfast",
+   "payout": 33,
+   "load": "wine"
+  }
+ ],
+ "52": [
+  {
+   "city": "Madrid",
+   "payout": 39,
+   "load": "china"
+  },
+  {
+   "city": "Beograd",
+   "payout": 28,
+   "load": "steel"
+  },
+  {
+   "city": "Bern",
+   "payout": 11,
+   "load": "imports"
+  }
+ ],
+ "53": [
+  {
+   "city": "Milano",
+   "payout": 26,
+   "load": "ham"
+  },
+  {
+   "city": "Barcelona",
+   "payout": 32,
+   "load": "coal"
+  },
+  {
+   "city": "Dublin",
+   "payout": 12,
+   "load": "hops"
+  }
+ ],
+ "54": [
+  {
+   "city": "Paris",
+   "payout": 32,
+   "load": "wood"
+  },
+  {
+   "city": "Birmingham",
+   "payout": 14,
+   "load": "imports"
+  },
+  {
+   "city": "Firenze",
+   "payout": 44,
+   "load": "cork"
+  }
+ ],
+ "55": [
+  {
+   "city": "Ruhr",
+   "payout": 11,
+   "load": "potatoes"
+  },
+  {
+   "city": "Budapest",
+   "payout": 60,
+   "load": "cork"
+  },
+  {
+   "city": "Goteborg",
+   "payout": 25,
+   "load": "china"
+  }
+ ],
+ "56": [
+  {
+   "city": "Wien",
+   "payout": 19,
+   "load": "imports"
+  },
+  {
+   "city": "Bruxelles",
+   "payout": 26,
+   "load": "labor"
+  },
+  {
+   "city": "Cardiff",
+   "payout": 35,
+   "load": "marble"
+  }
+ ],
+ "57": [
+  {
+   "city": "Berlin",
+   "payout": 42,
+   "load": "fruit"
+  },
+  {
+   "city": "Glasgow",
+   "payout": 13,
+   "load": "steel"
+  },
+  {
+   "city": "Bordeaux",
+   "payout": 26,
+   "load": "china"
+  }
+ ],
+ "58": [
+  {
+   "city": "Holland",
+   "payout": 25,
+   "load": "marble"
+  },
+  {
+   "city": "Hamburg",
+   "payout": 12,
+   "load": "coal"
+  },
+  {
+   "city": "Bilbao",
+   "payout": 44,
+   "load": "wood"
+  }
+ ],
+ "59": [
+  {
+   "city": "London",
+   "payout": 16,
+   "load": "wine"
+  },
+  {
+   "city": "Lisboa",
+   "payout": 40,
+   "load": "chocolate"
+  },
+  {
+   "city": "Frankfurt",
+   "payout": 21,
+   "load": "hops"
+  }
+ ],
+ "60": [
+  {
+   "city": "Madrid",
+   "payout": 11,
+   "load": "machinery"
+  },
+  {
+   "city": "Lodz",
+   "payout": 36,
+   "load": "sheep"
+  },
+  {
+   "city": "Cork",
+   "payout": 27,
+   "load": "imports"
+  }
+ ],
+ "61": [
+  {
+   "city": "Milano",
+   "payout": 7,
+   "load": "cheese"
+  },
+  {
+   "city": "Manchester",
+   "payout": 16,
+   "load": "chocolate"
+  },
+  {
+   "city": "Bremen",
+   "payout": 25,
+   "load": "wood"
+  }
+ ],
+ "62": [
+  {
+   "city": "Paris",
+   "payout": 13,
+   "load": "coal"
+  },
+  {
+   "city": "Munchen",
+   "payout": 38,
+   "load": "fish"
+  },
+  {
+   "city": "Kaliningrad",
+   "payout": 25,
+   "load": "flowers"
+  }
+ ],
+ "63": [
+  {
+   "city": "Ruhr",
+   "payout": 44,
+   "load": "cork"
+  },
+  {
+   "city": "Marseille",
+   "payout": 10,
+   "load": "cars"
+  },
+  {
+   "city": "Kobenhaven",
+   "payout": 28,
+   "load": "cattle"
+  }
+ ],
+ "64": [
+  {
+   "city": "Wien",
+   "payout": 16,
+   "load": "marble"
+  },
+  {
+   "city": "Napoli",
+   "payout": 52,
+   "load": "cork"
+  },
+  {
+   "city": "Krakow",
+   "payout": 20,
+   "load": "steel"
+  }
+ ],
+ "65": [
+  {
+   "city": "Berlin",
+   "payout": 23,
+   "load": "oil"
+  },
+  {
+   "city": "Stockholm",
+   "payout": 36,
+   "load": "beer"
+  },
+  {
+   "city": "Luxembourg",
+   "payout": 10,
+   "load": "wheat"
+  }
+ ],
+ "66": [
+  {
+   "city": "Holland",
+   "payout": 16,
+   "load": "oil"
+  },
+  {
+   "city": "Roma",
+   "payout": 20,
+   "load": "wheat"
+  },
+  {
+   "city": "Leipzig",
+   "payout": 25,
+   "load": "hops"
+  }
+ ],
+ "67": [
+  {
+   "city": "London",
+   "payout": 10,
+   "load": "imports"
+  },
+  {
+   "city": "Praha",
+   "payout": 27,
+   "load": "hops"
+  },
+  {
+   "city": "Lyon",
+   "payout": 17,
+   "load": "marble"
+  }
+ ],
+ "68": [
+  {
+   "city": "Madrid",
+   "payout": 30,
+   "load": "cheese"
+  },
+  {
+   "city": "Torino",
+   "payout": 8,
+   "load": "chocolate"
+  },
+  {
+   "city": "Nantes",
+   "payout": 19,
+   "load": "iron"
+  }
+ ],
+ "69": [
+  {
+   "city": "Milano",
+   "payout": 20,
+   "load": "copper"
+  },
+  {
+   "city": "Warszawa",
+   "payout": 8,
+   "load": "iron"
+  },
+  {
+   "city": "Newcastle",
+   "payout": 35,
+   "load": "bauxite"
+  }
+ ],
+ "70": [
+  {
+   "city": "Paris",
+   "payout": 13,
+   "load": "china"
+  },
+  {
+   "city": "Zurich",
+   "payout": 24,
+   "load": "coal"
+  },
+  {
+   "city": "Porto",
+   "payout": 54,
+   "load": "copper"
+  }
+ ],
+ "71": [
+  {
+   "city": "Wien",
+   "payout": 42,
+   "load": "fruit"
+  },
+  {
+   "city": "Antwerpen",
+   "payout": 20,
+   "load": "oil"
+  },
+  {
+   "city": "Oslo",
+   "payout": 30,
+   "load": "china"
+  }
+ ],
+ "72": [
+  {
+   "city": "Ruhr",
+   "payout": 27,
+   "load": "wood"
+  },
+  {
+   "city": "Barcelona",
+   "payout": 11,
+   "load": "wine"
+  },
+  {
+   "city": "Sarajevo",
+   "payout": 18,
+   "load": "beer"
+  }
+ ],
+ "73": [
+  {
+   "city": "Berlin",
+   "payout": 10,
+   "load": "cars"
+  },
+  {
+   "city": "Beograd",
+   "payout": 31,
+   "load": "imports"
+  },
+  {
+   "city": "Sevilla",
+   "payout": 21,
+   "load": "machinery"
+  }
+ ],
+ "74": [
+  {
+   "city": "Holland",
+   "payout": 22,
+   "load": "bauxite"
+  },
+  {
+   "city": "Napoli",
+   "payout": 32,
+   "load": "machinery"
+  },
+  {
+   "city": "Toulouse",
+   "payout": 11,
+   "load": "cattle"
+  }
+ ],
+ "75": [
+  {
+   "city": "London",
+   "payout": 25,
+   "load": "copper"
+  },
+  {
+   "city": "Praha",
+   "payout": 13,
+   "load": "ham"
+  },
+  {
+   "city": "Valencia",
+   "payout": 34,
+   "load": "flowers"
+  }
+ ],
+ "76": [
+  {
+   "city": "Madrid",
+   "payout": 37,
+   "load": "hops"
+  },
+  {
+   "city": "Budapest",
+   "payout": 14,
+   "load": "ham"
+  },
+  {
+   "city": "Stuttgart",
+   "payout": 22,
+   "load": "iron"
+  }
+ ],
+ "77": [
+  {
+   "city": "Milano",
+   "payout": 13,
+   "load": "steel"
+  },
+  {
+   "city": "Glasgow",
+   "payout": 26,
+   "load": "machinery"
+  },
+  {
+   "city": "Szczecin",
+   "payout": 36,
+   "load": "tobacco"
+  }
+ ],
+ "78": [
+  {
+   "city": "Paris",
+   "payout": 25,
+   "load": "labor"
+  },
+  {
+   "city": "Hamburg",
+   "payout": 9,
+   "load": "beer"
+  },
+  {
+   "city": "Venezia",
+   "payout": 19,
+   "load": "tourists"
+  }
+ ],
+ "79": [
+  {
+   "city": "Ruhr",
+   "payout": 7,
+   "load": "china"
+  },
+  {
+   "city": "Lisboa",
+   "payout": 26,
+   "load": "wheat"
+  },
+  {
+   "city": "Wroclaw",
+   "payout": 59,
+   "load": "cork"
+  }
+ ],
+ "80": [
+  {
+   "city": "Wien",
+   "payout": 9,
+   "load": "potatoes"
+  },
+  {
+   "city": "Bruxelles",
+   "payout": 29,
+   "load": "fruit"
+  },
+  {
+   "city": "Belfast",
+   "payout": 15,
+   "load": "china"
+  }
+ ],
+ "81": [
+  {
+   "city": "Berlin",
+   "payout": 8,
+   "load": "steel"
+  },
+  {
+   "city": "Manchester",
+   "payout": 36,
+   "load": "labor"
+  },
+  {
+   "city": "Zagreb",
+   "payout": 18,
+   "load": "ham"
+  }
+ ],
+ "82": [
+  {
+   "city": "Holland",
+   "payout": 11,
+   "load": "iron"
+  },
+  {
+   "city": "Marseille",
+   "payout": 32,
+   "load": "potatoes"
+  },
+  {
+   "city": "Arhus",
+   "payout": 22,
+   "load": "ham"
+  }
+ ],
+ "83": [
+  {
+   "city": "London",
+   "payout": 16,
+   "load": "fish"
+  },
+  {
+   "city": "Munchen",
+   "payout": 29,
+   "load": "hops"
+  },
+  {
+   "city": "Bilbao",
+   "payout": 8,
+   "load": "wine"
+  }
+ ],
+ "84": [
+  {
+   "city": "Madrid",
+   "payout": 35,
+   "load": "flowers"
+  },
+  {
+   "city": "Birmingham",
+   "payout": 11,
+   "load": "beer"
+  },
+  {
+   "city": "Bern",
+   "payout": 20,
+   "load": "labor"
+  }
+ ],
+ "85": [
+  {
+   "city": "Milano",
+   "payout": 17,
+   "load": "wood"
+  },
+  {
+   "city": "Lodz",
+   "payout": 37,
+   "load": "fish"
+  },
+  {
+   "city": "Aberdeen",
+   "payout": 29,
+   "load": "chocolate"
+  }
+ ],
+ "86": [
+  {
+   "city": "Paris",
+   "payout": 27,
+   "load": "ham"
+  },
+  {
+   "city": "Roma",
+   "payout": 22,
+   "load": "wine"
+  },
+  {
+   "city": "Bordeaux",
+   "payout": 13,
+   "load": "bauxite"
+  }
+ ],
+ "87": [
+  {
+   "city": "Ruhr",
+   "payout": 31,
+   "load": "tobacco"
+  },
+  {
+   "city": "Stockholm",
+   "payout": 55,
+   "load": "marble"
+  },
+  {
+   "city": "Cork",
+   "payout": 17,
+   "load": "tourists"
+  }
+ ],
+ "88": [
+  {
+   "city": "Wien",
+   "payout": 7,
+   "load": "cars"
+  },
+  {
+   "city": "Torino",
+   "payout": 24,
+   "load": "copper"
+  },
+  {
+   "city": "Cardiff",
+   "payout": 15,
+   "load": "cheese"
+  }
+ ],
+ "89": [
+  {
+   "city": "Berlin",
+   "payout": 17,
+   "load": "cattle"
+  },
+  {
+   "city": "Zurich",
+   "payout": 25,
+   "load": "oil"
+  },
+  {
+   "city": "Goteborg",
+   "payout": 11,
+   "load": "iron"
+  }
+ ],
+ "90": [
+  {
+   "city": "Holland",
+   "payout": 29,
+   "load": "wood"
+  },
+  {
+   "city": "Warszawa",
+   "payout": 19,
+   "load": "steel"
+  },
+  {
+   "city": "Dublin",
+   "payout": 12,
+   "load": "coal"
+  }
+ ],
+ "91": [
+  {
+   "city": "Madrid",
+   "payout": 37,
+   "load": "coal"
+  },
+  {
+   "city": "Antwerpen",
+   "payout": 26,
+   "load": "labor"
+  },
+  {
+   "city": "Firenze",
+   "payout": 17,
+   "load": "wheat"
+  }
+ ],
+ "92": [
+  {
+   "city": "London",
+   "payout": 25,
+   "load": "bauxite"
+  },
+  {
+   "city": "Barcelona",
+   "payout": 10,
+   "load": "sheep"
+  },
+  {
+   "city": "Frankfurt",
+   "payout": 46,
+   "load": "cork"
+  }
+ ],
+ "93": [
+  {
+   "city": "Milano",
+   "payout": 19,
+   "load": "flowers"
+  },
+  {
+   "city": "Beograd",
+   "payout": 51,
+   "load": "sheep"
+  },
+  {
+   "city": "Bremen",
+   "payout": 25,
+   "load": "fish"
+  }
+ ],
+ "94": [
+  {
+   "city": "Paris",
+   "payout": 11,
+   "load": "beer"
+  },
+  {
+   "city": "Budapest",
+   "payout": 21,
+   "load": "cheese"
+  },
+  {
+   "city": "Kaliningrad",
+   "payout": 27,
+   "load": "chocolate"
+  }
+ ],
+ "95": [
+  {
+   "city": "Ruhr",
+   "payout": 22,
+   "load": "marble"
+  },
+  {
+   "city": "Marseille",
+   "payout": 29,
+   "load": "hops"
+  },
+  {
+   "city": "Kobenhaven",
+   "payout": 13,
+   "load": "imports"
+  }
+ ],
+ "96": [
+  {
+   "city": "Wien",
+   "payout": 9,
+   "load": "china"
+  },
+  {
+   "city": "Birmingham",
+   "payout": 15,
+   "load": "potatoes"
+  },
+  {
+   "city": "Krakow",
+   "payout": 23,
+   "load": "flowers"
+  }
+ ],
+ "97": [
+  {
+   "city": "Antwerpen",
+   "payout": 10,
+   "load": "wine"
+  },
+  {
+   "city": "Glasgow",
+   "payout": 38,
+   "load": "copper"
+  },
+  {
+   "city": "Lyon",
+   "payout": 23,
+   "load": "china"
+  }
+ ],
+ "98": [
+  {
+   "city": "Beograd",
+   "payout": 27,
+   "load": "cattle"
+  },
+  {
+   "city": "Lisboa",
+   "payout": 46,
+   "load": "beer"
+  },
+  {
+   "city": "Luxembourg",
+   "payout": 19,
+   "load": "coal"
+  }
+ ],
+ "99": [
+  {
+   "city": "Barcelona",
+   "payout": 19,
+   "load": "cars"
+  },
+  {
+   "city": "Hamburg",
+   "payout": 27,
+   "load": "marble"
+  },
+  {
+   "city": "Newcastle",
+   "payout": 13,
+   "load": "coal"
+  }
+ ],
+ "100": [
+  {
+   "city": "Birmingham",
+   "payout": 38,
+   "load": "fruit"
+  },
+  {
+   "city": "Lodz",
+   "payout": 12,
+   "load": "bauxite"
+  },
+  {
+   "city": "Nantes",
+   "payout": 17,
+   "load": "tourists"
+  }
+ ],
+ "101": [
+  {
+   "city": "Bruxelles",
+   "payout": 6,
+   "load": "steel"
+  },
+  {
+   "city": "Manchester",
+   "payout": 13,
+   "load": "cheese"
+  },
+  {
+   "city": "Leipzig",
+   "payout": 52,
+   "load": "cork"
+  }
+ ],
+ "102": [
+  {
+   "city": "Budapest",
+   "payout": 8,
+   "load": "oil"
+  },
+  {
+   "city": "Bruxelles",
+   "payout": 19,
+   "load": "copper"
+  },
+  {
+   "city": "Oslo",
+   "payout": 30,
+   "load": "tourists"
+  }
+ ],
+ "103": [
+  {
+   "city": "Glasgow",
+   "payout": 24,
+   "load": "imports"
+  },
+  {
+   "city": "Munchen",
+   "payout": 14,
+   "load": "bauxite"
+  },
+  {
+   "city": "Porto",
+   "payout": 35,
+   "load": "chocolate"
+  }
+ ],
+ "104": [
+  {
+   "city": "Hamburg",
+   "payout": 17,
+   "load": "ham"
+  },
+  {
+   "city": "Napoli",
+   "payout": 10,
+   "load": "marble"
+  },
+  {
+   "city": "Sarajevo",
+   "payout": 31,
+   "load": "flowers"
+  }
+ ],
+ "105": [
+  {
+   "city": "Manchester",
+   "payout": 24,
+   "load": "wheat"
+  },
+  {
+   "city": "Praha",
+   "payout": 6,
+   "load": "wine"
+  },
+  {
+   "city": "Sevilla",
+   "payout": 32,
+   "load": "cattle"
+  }
+ ],
+ "106": [
+  {
+   "city": "Lodz",
+   "payout": 24,
+   "load": "cattle"
+  },
+  {
+   "city": "Roma",
+   "payout": 40,
+   "load": "iron"
+  },
+  {
+   "city": "Stuttgart",
+   "payout": 16,
+   "load": "labor"
+  }
+ ],
+ "107": [
+  {
+   "city": "Lisboa",
+   "payout": 17,
+   "load": "sheep"
+  },
+  {
+   "city": "Stockholm",
+   "payout": 29,
+   "load": "potatoes"
+  },
+  {
+   "city": "Szczecin",
+   "payout": 9,
+   "load": "beer"
+  }
+ ],
+ "108": [
+  {
+   "city": "Marseille",
+   "payout": 21,
+   "load": "tobacco"
+  },
+  {
+   "city": "Warszawa",
+   "payout": 14,
+   "load": "bauxite"
+  },
+  {
+   "city": "Aberdeen",
+   "payout": 63,
+   "load": "cork"
+  }
+ ],
+ "109": [
+  {
+   "city": "Munchen",
+   "payout": 19,
+   "load": "oil"
+  },
+  {
+   "city": "Praha",
+   "payout": 12,
+   "load": "machinery"
+  },
+  {
+   "city": "Valencia",
+   "payout": 35,
+   "load": "tourists"
+  }
+ ],
+ "110": [
+  {
+   "city": "Antwerpen",
+   "payout": 12,
+   "load": "cars"
+  },
+  {
+   "city": "Zurich",
+   "payout": 31,
+   "load": "fruit"
+  },
+  {
+   "city": "Belfast",
+   "payout": 25,
+   "load": "flowers"
+  }
+ ],
+ "111": [
+  {
+   "city": "Napoli",
+   "payout": 23,
+   "load": "labor"
+  },
+  {
+   "city": "Barcelona",
+   "payout": 31,
+   "load": "iron"
+  },
+  {
+   "city": "Wroclaw",
+   "payout": 15,
+   "load": "steel"
+  }
+ ],
+ "112": [
+  {
+   "city": "Roma",
+   "payout": 18,
+   "load": "chocolate"
+  },
+  {
+   "city": "Birmingham",
+   "payout": 33,
+   "load": "ham"
+  },
+  {
+   "city": "Arhus",
+   "payout": 27,
+   "load": "hops"
+  }
+ ],
+ "113": [
+  {
+   "city": "Stockholm",
+   "payout": 36,
+   "load": "copper"
+  },
+  {
+   "city": "Beograd",
+   "payout": 17,
+   "load": "beer"
+  },
+  {
+   "city": "Toulouse",
+   "payout": 26,
+   "load": "china"
+  }
+ ],
+ "114": [
+  {
+   "city": "Torino",
+   "payout": 16,
+   "load": "steel"
+  },
+  {
+   "city": "Bruxelles",
+   "payout": 5,
+   "load": "cheese"
+  },
+  {
+   "city": "Zagreb",
+   "payout": 23,
+   "load": "imports"
+  }
+ ],
+ "115": [
+  {
+   "city": "Warszawa",
+   "payout": 24,
+   "load": "wood"
+  },
+  {
+   "city": "Torino",
+   "payout": 12,
+   "load": "beer"
+  },
+  {
+   "city": "Bilbao",
+   "payout": 38,
+   "load": "tobacco"
+  }
+ ],
+ "116": [
+  {
+   "city": "Zurich",
+   "payout": 10,
+   "load": "wine"
+  },
+  {
+   "city": "Budapest",
+   "payout": 42,
+   "load": "fish"
+  },
+  {
+   "city": "Cardiff",
+   "payout": 22,
+   "load": "wheat"
+  }
+ ],
+ "117": [
+  {
+   "city": "Antwerpen",
+   "payout": 17,
+   "load": "potatoes"
+  },
+  {
+   "city": "Glasgow",
+   "payout": 25,
+   "load": "chocolate"
+  },
+  {
+   "city": "Venezia",
+   "payout": 42,
+   "load": "fish"
+  }
+ ],
+ "118": [
+  {
+   "city": "Barcelona",
+   "payout": 29,
+   "load": "tourists"
+  },
+  {
+   "city": "Hamburg",
+   "payout": 12,
+   "load": "copper"
+  },
+  {
+   "city": "Bordeaux",
+   "payout": 19,
+   "load": "cars"
+  }
+ ],
+ "119": [
+  {
+   "city": "Beograd",
+   "payout": 32,
+   "load": "wheat"
+  },
+  {
+   "city": "Lisboa",
+   "payout": 55,
+   "load": "labor"
+  },
+  {
+   "city": "Bremen",
+   "payout": 17,
+   "load": "iron"
+  }
+ ],
+ "120": [
+  {
+   "city": "Birmingham",
+   "payout": 12,
+   "load": "cheese"
+  },
+  {
+   "city": "Lodz",
+   "payout": 35,
+   "load": "hops"
+  },
+  {
+   "city": "Bern",
+   "payout": 21,
+   "load": "potatoes"
+  }
+ ],
+ "121": [
+  {
+   "city": "Bruxelles",
+   "payout": 12,
+   "load": "cars"
+  },
+  {
+   "city": "Marseille",
+   "payout": 20,
+   "load": "imports"
+  },
+  {
+   "city": "Cork",
+   "payout": 30,
+   "load": "machinery"
+  }
+ ],
+ "123": [
+  {
+   "city": "Glasgow",
+   "payout": 17,
+   "load": "coal"
+  },
+  {
+   "city": "Munchen",
+   "payout": 36,
+   "load": "fruit"
+  },
+  {
+   "city": "Firenze",
+   "payout": 22,
+   "load": "china"
+  }
+ ],
+ "122": [
+  {
+   "city": "Budapest",
+   "payout": 12,
+   "load": "wood"
+  },
+  {
+   "city": "Manchester",
+   "payout": 40,
+   "load": "fruit"
+  },
+  {
+   "city": "Frankfurt",
+   "payout": 23,
+   "load": "oil"
+  }
+ ],
+ "124": [
+  {
+   "city": "Hamburg",
+   "payout": 51,
+   "load": "cork"
+  },
+  {
+   "city": "Napoli",
+   "payout": 33,
+   "load": "imports"
+  },
+  {
+   "city": "Dublin",
+   "payout": 19,
+   "load": "cheese"
+  }
+ ],
+ "125": [
+  {
+   "city": "Lisboa",
+   "payout": 44,
+   "load": "flowers"
+  },
+  {
+   "city": "Praha",
+   "payout": 12,
+   "load": "steel"
+  },
+  {
+   "city": "Goteborg",
+   "payout": 33,
+   "load": "sheep"
+  }
+ ],
+ "126": [
+  {
+   "city": "Lodz",
+   "payout": 22,
+   "load": "wood"
+  },
+  {
+   "city": "Roma",
+   "payout": 13,
+   "load": "cars"
+  },
+  {
+   "city": "Kobenhaven",
+   "payout": 30,
+   "load": "bauxite"
+  }
+ ],
+ "127": [
+  {
+   "city": "Manchester",
+   "payout": 18,
+   "load": "machinery"
+  },
+  {
+   "city": "Stockholm",
+   "payout": 46,
+   "load": "wheat"
+  },
+  {
+   "city": "Kaliningrad",
+   "payout": 27,
+   "load": "oil"
+  }
+ ],
+ "128": [
+  {
+   "city": "Marseille",
+   "payout": 18,
+   "load": "sheep"
+  },
+  {
+   "city": "Stockholm",
+   "payout": 33,
+   "load": "tourists"
+  },
+  {
+   "city": "Krakow",
+   "payout": 40,
+   "load": "fish"
+  }
+ ],
+ "129": [
+  {
+   "city": "Lisboa",
+   "payout": 30,
+   "load": "cars"
+  },
+  {
+   "city": "Warszawa",
+   "payout": 39,
+   "load": "tobacco"
+  },
+  {
+   "city": "Leipzig",
+   "payout": 22,
+   "load": "marble"
+  }
+ ],
+ "130": [
+  {
+   "city": "Napoli",
+   "payout": 25,
+   "load": "wine"
+  },
+  {
+   "city": "Praha",
+   "payout": 35,
+   "load": "sheep"
+  },
+  {
+   "city": "Luxembourg",
+   "payout": 12,
+   "load": "china"
+  }
+ ],
+ "131": [
+  {
+   "city": "Zurich",
+   "payout": 24,
+   "load": "iron"
+  },
+  {
+   "city": "Aberdeen",
+   "payout": 37,
+   "load": "wheat"
+  },
+  {
+   "city": "Kobenhaven",
+   "payout": 18,
+   "load": "tourists"
+  }
+ ],
+ "132": [
+  {
+   "city": "Roma",
+   "payout": 32,
+   "load": "potatoes"
+  },
+  {
+   "city": "Arhus",
+   "payout": 15,
+   "load": "oil"
+  },
+  {
+   "city": "Nantes",
+   "payout": 21,
+   "load": "cars"
+  }
+ ],
+ "133": [
+  {
+   "city": "Torino",
+   "payout": 11,
+   "load": "bauxite"
+  },
+  {
+   "city": "Belfast",
+   "payout": 17,
+   "load": "hops"
+  },
+  {
+   "city": "Oslo",
+   "payout": 30,
+   "load": "flowers"
+  }
+ ],
+ "134": [
+  {
+   "city": "Torino",
+   "payout": 29,
+   "load": "ham"
+  },
+  {
+   "city": "Bilbao",
+   "payout": 12,
+   "load": "fish"
+  },
+  {
+   "city": "Newcastle",
+   "payout": 21,
+   "load": "chocolate"
+  }
+ ],
+ "135": [
+  {
+   "city": "Warszawa",
+   "payout": 12,
+   "load": "wine"
+  },
+  {
+   "city": "Bern",
+   "payout": 23,
+   "load": "tobacco"
+  },
+  {
+   "city": "Porto",
+   "payout": 37,
+   "load": "steel"
+  }
+ ],
+ "136": [
+  {
+   "city": "Zurich",
+   "payout": 13,
+   "load": "china"
+  },
+  {
+   "city": "Bremen",
+   "payout": 24,
+   "load": "oil"
+  },
+  {
+   "city": "Sarajevo",
+   "payout": 46,
+   "load": "fruit"
+  }
+ ],
+ "137": [
+  {
+   "city": "Antwerpen",
+   "payout": 19,
+   "load": "copper"
+  },
+  {
+   "city": "Bordeaux",
+   "payout": 34,
+   "load": "labor"
+  },
+  {
+   "city": "Sevilla",
+   "payout": 46,
+   "load": "flowers"
+  }
+ ],
+ "138": [
+  {
+   "city": "Barcelona",
+   "payout": 17,
+   "load": "cattle"
+  },
+  {
+   "city": "Cardiff",
+   "payout": 38,
+   "load": "labor"
+  },
+  {
+   "city": "Stuttgart",
+   "payout": 21,
+   "load": "ham"
+  }
+ ],
+ "139": [
+  {
+   "city": "Beograd",
+   "payout": 20,
+   "load": "potatoes"
+  },
+  {
+   "city": "Cork",
+   "payout": 32,
+   "load": "cattle"
+  },
+  {
+   "city": "Szczecin",
+   "payout": 9,
+   "load": "machinery"
+  }
+ ],
+ "140": [
+  {
+   "city": "Birmingham",
+   "payout": 35,
+   "load": "marble"
+  },
+  {
+   "city": "Krakow",
+   "payout": 18,
+   "load": "wood"
+  },
+  {
+   "city": "Toulouse",
+   "payout": 26,
+   "load": "iron"
+  }
+ ],
+ "141": [
+  {
+   "city": "Bruxelles",
+   "payout": 10,
+   "load": "beer"
+  },
+  {
+   "city": "Firenze",
+   "payout": 24,
+   "load": "copper"
+  },
+  {
+   "city": "Valencia",
+   "payout": 31,
+   "load": "steel"
+  }
+ ],
+ "142": [
+  {
+   "city": "Budapest",
+   "payout": 22,
+   "load": "machinery"
+  },
+  {
+   "city": "Frankfurt",
+   "payout": 15,
+   "load": "coal"
+  },
+  {
+   "city": "Venezia",
+   "payout": 46,
+   "load": "cork"
+  }
+ ],
+ "143": [
+  {
+   "city": "Glasgow",
+   "payout": 28,
+   "load": "wine"
+  },
+  {
+   "city": "Goteborg",
+   "payout": 46,
+   "load": "marble"
+  },
+  {
+   "city": "Wroclaw",
+   "payout": 17,
+   "load": "cheese"
+  }
+ ],
+ "144": [
+  {
+   "city": "Dublin",
+   "payout": 27,
+   "load": "cattle"
+  },
+  {
+   "city": "Lyon",
+   "payout": 33,
+   "load": "cork"
+  },
+  {
+   "city": "Zagreb",
+   "payout": 18,
+   "load": "chocolate"
+  }
+ ],
+ "145": [
+  {
+   "city": "Munchen",
+   "payout": 15,
+   "load": "coal"
+  },
+  {
+   "city": "Kaliningrad",
+   "payout": 39,
+   "load": "hops"
+  },
+  {
+   "city": "Arhus",
+   "payout": 28,
+   "load": "labor"
+  }
+ ],
+ "146": [
+  {
+   "city": "Lodz",
+   "payout": 16,
+   "load": "imports"
+  },
+  {
+   "city": "Hamburg",
+   "payout": 27,
+   "load": "sheep"
+  },
+  {
+   "city": "Stockholm",
+   "payout": 48,
+   "load": "hops"
+  }
+ ],
+ "43": [
+  {
+   "city": "London",
+   "payout": 31,
+   "load": "marble"
+  },
+  {
+   "city": "Munchen",
+   "payout": 26,
+   "load": "iron"
+  },
+  {
+   "city": "Szczecin",
+   "payout": 12,
+   "load": "wine"
+  }
+ ]
+}
